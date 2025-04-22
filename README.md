@@ -1,0 +1,2 @@
+# Tensorflow-2.0-Deep-Learning-and-Artificial-Intelligence
+During this course, I learned the fundamentals of working with TensorFlow 2.0 and building deep learning models. I practiced creating neural networks, including Convolutional (CNN) and Recurrent Neural Networks (RNN), and applied them to image, text, and sequence data. I also explored model deployment techniques for mobile and cloud environments, as well as transfer learning and reinforcement learning strategies.
